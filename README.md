@@ -11,7 +11,6 @@
 	  <br />A 2025 undergraduate student 🚢
   </samp>
   <br/>
-  <p align="center"> Read more about my [Blog](https://www.awesomeboy.cn)📔</p>
 </p>
 <p align="center">
   <a> <img  src="https://github-readme-stats.vercel.app/api?username=AwesomeBoyCai&show_icons=true&include_all_commits=true&theme=transparent" alt="AwesomeBoyCai's github stats" /> </a> 
