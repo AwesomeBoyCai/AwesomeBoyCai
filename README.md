@@ -13,7 +13,7 @@
   <br/>
 </p>
 <p align="center">
-  <a> <img  src="https://github-readme-stats.vercel.app/api?username=AwesomeBoyCai&show_icons=true&include_all_commits=true&theme=transparent" alt="AwesomeBoyCai's github stats" /> </a> 
+  <a> <img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AwesomeBoyCai&show_icons=true&include_all_commits=true&theme=transparent" alt="AwesomeBoyCai's github stats" /> </a> 
 </p>
 <p align="center">
   <a><img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff" /></a>
@@ -25,5 +25,5 @@
   <a><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff" /></a>
 </p>
 <p align="center">
-  <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwesomeBoyCai&hide=html,css&layout=donut-vertical" /> </a> 
+  <a> <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AwesomeBoyCai&hide=html,css&layout=donut-vertical" /> </a> 
 </p>
